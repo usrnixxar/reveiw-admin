@@ -1,1 +1,1 @@
-window.SKILLENCE_ADMIN_CONFIG = { url: '', anonKey: '', storageBucket: 'review-attachments', adminUsername: 'Skillenceadmin', adminEmail: '' };
+window.SKILLENCE_ADMIN_CONFIG = { url: 'https://ivknoltohgkavkhxftnk.supabase.co', anonKey: 'sb_publishable_Evw72qZpcCN7QLaDv4yZDw_m-lUZl_d', storageBucket: 'review-attachments', adminUsername: 'Skillenceadmin', adminEmail: '' };
